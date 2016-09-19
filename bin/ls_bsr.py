@@ -14,7 +14,7 @@ import subprocess
 from subprocess import call
 import errno
 import types
-from ls_bsr.util import *
+from ls_bsr import *
 from igs.utils import logging
 import glob
 import tempfile
