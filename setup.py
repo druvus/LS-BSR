@@ -27,6 +27,6 @@ setup(name='LS-BSR',
       maintainer=__maintainer__,
       maintainer_email=__email__,
       packages=find_packages(),
-      scripts = ['ls_bsr.py'],
+      scripts = ['bin/ls_bsr.py'],
       long_description=long_description
 )
